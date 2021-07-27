@@ -30,6 +30,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ✔️ Concluido 
 -------------------------------------------------------------------------------------------------------------
 
-Feito com ♥ ![ChristianeGozza](https://github.com/chritianegozza) 👋 Participe da nossa comunidade!
+Feito com ♥[ChristianeGozza](https://github.com/chritianegozza) 👋 Participe da nossa comunidade!
 
 Caso tenham alguma dúvida pode entrar em contato comigo, estou a disposição. 
